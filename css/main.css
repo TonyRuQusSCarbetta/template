@@ -2,9 +2,12 @@ html, body {
   height: 100%;
 }
 
-.box {
+/* .box {
+  display: inline-block;
+  background-color: green;
+  text-align: center;
   position: relative;
   left: 200px;
   right: 200px;
   top:200px;
-}
+} */
