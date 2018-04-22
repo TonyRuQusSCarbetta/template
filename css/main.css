@@ -1,13 +1,12 @@
+/* AUTOPREFIXER */
+/* https://autoprefixer.github.io/ */
+
 html, body {
   height: 100%;
 }
 
-/* .box {
-  display: inline-block;
-  background-color: green;
+.center {
   text-align: center;
-  position: relative;
-  left: 200px;
-  right: 200px;
-  top:200px;
-} */
+  margin: 0 auto;
+  display: inline-block;
+}
